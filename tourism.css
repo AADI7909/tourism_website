@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: URL("https://img.freepik.com/free-photo/sunset-beach-sea-wave_1150-11145.jpg?w=1060&t=st=1669998290~exp=1669998890~hmac=b74a515345dc5dded5e564f052b630b57a8449411aa1775f022b8fa8d8523161");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.main-heading {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+.paragraph {
+    color: grey;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.Button {
+    height: 36px;
+    width: 138px;
+    color: white;
+    background-color: #80134b;
+    border-radius: 30px;
+    border-width: 0;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    padding: 24px;
+}
+
+.favourite-places-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.favourite-places-card-one {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.place-one-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.place-one-paragraph {
+    font-family: "Roboto";
+    color: #6c6b70;
+    font-size: 13px;
+}
+
+.place-one-image {
+    height: 100px;
+    width: 80px;
+}
+
+.detail-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+}
+
+.detail-view-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    padding: 24px;
+}
+
+.detail-view-card-container {
+    background-color: white;
+    margin: 24px;
+}
+
+.detail-view-card-text-container {
+    padding: 16px;
+}
+
+.detail-view-side-heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.detail-view-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    padding: 5px;
+}
+
+
+.detail-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+}
+
+.detail-view-main-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+    color: white;
+}
+
+.detail-view-card-container {
+    background-color: white;
+    margin: 20px;
+}
+
+.detail-view-card-text-container {
+    background-color: #ffffff;
+}
+
+.detail-view-heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.detail-view-description {
+    font-family: "Roboto";
+    font-size: 14px;
+    padding: 10px;
+}
+
+
+.detail-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+}
+
+.detail-view-main-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+    color: white;
+}
+
+.detail-view-card-container {
+    background-color: white;
+    margin: 20px;
+}
+
+.detail-view-card-text-container {
+    background-color: white;
+    padding: 24px;
+}
+
+.detail-view-heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.detail-view-description {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.detail-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+}
+
+.detail-view-main-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+    color: white;
+}
+
+.detail-view-card-container {
+    background-color: white;
+    margin: 20px;
+}
+
+.detail-view-card-text-container {
+    background-color: white;
+    padding: 24px;
+}
+
+.detail-view-heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.detail-view-description {
+    font-family: "Roboto";
+    font-size: 14px;
+}
